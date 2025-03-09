@@ -1,0 +1,47 @@
+Who am I?
+
+Am I a goat? Am I a cow? Am I a human ? Am I a demon? Am I a robot?
+Who knows... I might even be all that at the same time!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Dopplegangoat: You can change form.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][Y] or [U]:[/b] Hold to shapeshift into a random form.
+- [b][Y] or [U] + ???:[/b] Hold to shapeshift into the next form.
+- [b][Y] or [U] + ???:[/b] Hold to shapeshift into the previous form.
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][LeftStickClick]:[/b] Hold to shapeshift into a random form.
+- [b][LeftStickClick] + ???:[/b] Hold to shapeshift into the next form.
+- [b][LeftStickClick] + ???:[/b] Hold to shapeshift into the previous form.
+
+[b]CONSOLE COMMANDS[/b]
+- SelectModel modelName => The next player to shapeshift will get this form.
+
+[b]CHARACTERISTICS[/b]
+- You can open the console with [~] or [ù] depending on your keyboard layout.
+- You can only shapeshift if you are not ragdoll and not moving.
+- When you shapeshift, the name of your new model is displayed.
+- You keep the stats of your starting character when shapeshifting (speed, jump height, attack damages, etc...)
+- Shapeshifting only change your appearance, do not expect any extra ability even if the form you get usually have them.
+- When changing map, you will take back your original form.
+
+[b]EASTER EGGS[/b]
+- [spoiler]If you shapeshift when the camera look right, you will get the next model, look left for the previous one.[/spoiler]
+- [spoiler]The naked man from GoatZ can only be obtained using the following model name in the console command:[/spoiler][spoiler]Survivor[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Objects attached to your body by some mutators will no longer be attached when playing with some models. Change model to fix.
+- Some abilities provided by other mutators might be lost when changing model because your current model do not have the expected body parts. Change model to fix.
+- Going ragdoll for the first time after changing form may throw you through the map. Respawn to fix.
+- Some spacesuit man models have a gap in their neck texture during certain animations. Can't fix.
+- Some models do not have any animations: Yes.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Here it is, once and for all, the legendary Dopplegangot is alive XD This mod was probably the most requested of them all, and for good reasons, who would not want to play as a random citizen in this game :p This mod was also a great reason for me not to include models in other mutators I made, because I didn't want to spread the work needed to make a model playable in various mods when I can have it all in this one :) Also, I did wait long enough to be sure that no more model would be added to the game after I release this mod, because updating it with new models would have been a real pain X)
+Anyway, that's it, this mod required exactly the ammount of work I expected for it, and hopefully part of that work was simplified by the code I already produced for the Goatymon NPCs ^^ So basically I made a huuuuge list of every single character model available in the game files, and I tried to apply them to the player. Some models needed little tweaks in term of animation and collision, but overall most models were working really well on their own. Then I was really happy to discover that the Payday characters animations could be applied to every single human NPC in the game! Meaning that player-controlled humans all have wonderful and seamless animations, compared to what they had when possessed by Ghost Goat for example.
+Finally, most of the time on this mod was to gather and stick together the skin, physics, animations and collision size of every model, for a total of 344 models avaliable for you to play with... So enjoy your multiple forms :D
+[/quote]
